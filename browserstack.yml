@@ -1,0 +1,21 @@
+userName: mandeepsheoran_HMkLhW
+accessKey: hDswhU9eB6bza1oMBtPy
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 113.0
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: latest
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+browserstackLocal: false
+buildName: igtdemo-1
+projectName: igtdemo
+CUSTOM_TAG_1: dryrun
+framework: testng
+acceptInsecureCerts: true

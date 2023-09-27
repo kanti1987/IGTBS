@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cross-Platform]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="BStackDemo(failed)" verbose="0">
+    <classes>
+      <class name="org.browserstack.test.DemoQAStepDef">
+        <methods>
+          <include name="validateApplicationDetails"/>
+          <include name="getDriver"/>
+          <include name="tearDownDriver"/>
+        </methods>
+      </class> <!-- org.browserstack.test.DemoQAStepDef -->
+    </classes>
+  </test> <!-- BStackDemo(failed) -->
+</suite> <!-- Failed suite [Cross-Platform] -->

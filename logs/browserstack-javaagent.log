@@ -1,0 +1,120 @@
+19:41:08.788 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+19:41:08.792 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:41:09.234 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+19:41:09.329 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:41:09.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:41:12.150 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+19:56:30.740 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+19:56:30.743 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:56:30.911 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+19:56:30.959 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:56:31.165 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:56:33.163 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+08:14:49.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+08:14:49.591 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+08:14:49.788 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+08:14:49.849 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:14:50.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:14:50.968 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+08:15:29.376 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/457a03cf461a6fbdd445755603884d19cb625482
+08:15:29.376 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+08:18:46.211 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+08:18:46.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+08:18:46.392 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+08:18:46.437 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:18:46.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:18:49.098 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+08:18:49.182 [main] ERROR c.b.DriverServiceTransformer - [source error] no such field: message
+08:20:03.537 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+08:20:03.540 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+08:20:03.764 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+08:20:03.811 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:20:04.056 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:20:06.165 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+08:21:16.802 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9c3ff7b5801e5d4ad9cf68d5bb992c5f5f22eac6
+08:21:16.802 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:03:05.001 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+09:03:05.006 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:03:05.220 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Mandeep.Sheoran\Downloads\testng-browserstack-master (2)\testng-browserstack-master\browserstack.yml
+09:03:05.281 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:03:05.525 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:03:08.087 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+09:03:38.993 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/42195a59161ea91d2e4fde590d31fffd1f9c712b
+09:03:38.994 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:06:38.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+09:06:38.243 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:06:38.441 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+09:06:38.490 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:06:38.753 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:06:41.086 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+09:07:10.739 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/30d5cb74f56c11383e5ce2a7c2b5ef08e66a66f3
+09:07:10.739 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:11:44.749 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+09:11:44.753 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:11:45.088 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+09:11:45.161 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:11:45.515 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:11:48.239 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+09:12:21.445 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5fab932e055457bfcca604f8a92b417416ac297f
+09:12:21.445 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:48:34.412 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+10:48:34.416 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:48:34.760 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+10:48:34.834 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:48:35.199 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:48:44.120 [ForkJoinPool.commonPool-worker-1] INFO  c.b.config.BrowserStackConfig - WARN
+10:48:44.978 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+10:49:36.526 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/06df092dbd5986f8adde2e9b4a2348a9fc80e8f5
+10:49:36.527 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:55:40.138 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+10:55:40.142 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:55:40.384 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+10:55:40.450 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:55:40.732 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:55:44.372 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+11:02:43.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+11:02:43.973 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:02:44.306 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+11:02:44.377 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:02:44.718 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:02:48.256 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+11:03:23.031 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f2f6d378259d907a19526d3e99fc412586b65f7b
+11:03:23.031 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:20:39.851 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+11:20:39.855 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:20:40.125 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+11:20:40.187 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:20:40.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:20:43.873 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+11:28:40.803 [main] INFO  c.b.config.BrowserStackConfig - INFO
+11:28:40.838 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:23:46.654 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+12:23:46.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:23:47.009 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+12:23:47.103 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:23:47.462 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:23:50.165 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+12:24:34.234 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+12:26:41.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+12:26:41.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:26:42.141 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+12:26:42.220 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:26:42.607 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:26:45.678 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+12:27:23.265 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+12:34:20.743 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+12:34:20.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:34:21.080 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+12:34:21.160 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:34:21.586 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:34:25.041 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+12:36:03.242 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+12:36:03.249 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:36:03.866 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\eclipse-workspace\Browserstack-ParallelTesting\browserstack.yml
+12:36:04.007 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:36:04.830 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:36:08.376 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+12:37:53.433 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
